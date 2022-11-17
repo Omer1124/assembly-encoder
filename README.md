@@ -1,3 +1,3 @@
 # assembly-encoder
-# C language Project
+# C language project
 # grade - 97

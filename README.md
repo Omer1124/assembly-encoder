@@ -1,4 +1,3 @@
 # assembly-encoder
-# C language  
-# Israel Open University computer science project 
+# C language Project
 # grade - 97
